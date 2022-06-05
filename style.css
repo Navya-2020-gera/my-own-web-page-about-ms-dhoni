@@ -1,0 +1,19 @@
+body{
+    color: rgb(238, 113, 140);
+    background: rgb(96, 233, 243);
+}
+h1{
+    width: 80%;
+    font-size: 22px;
+    color: rgb(113, 39, 224);
+}
+h2{
+    width: 80%;
+    font-size: 22px;
+    color: rgb(241, 46, 20);
+}
+p{
+    width: 80%;
+    font-size: 22px;
+    color: rgb(211, 81, 240);
+}
